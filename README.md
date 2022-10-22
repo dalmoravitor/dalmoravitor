@@ -1,4 +1,4 @@
-## Hey, What's up! I am Vitor and I'm a mobile development student.
+## Hey, What's up! I am Vitor and I'm a front-ent development student.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmoravitor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
