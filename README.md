@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&fontAlignY=28&section=header&text=%5C------Olá%20Mundo%20------%2F&fontSize=24"
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&fontAlignY=28&section=header&text=%5C------Hello%20World%20------%2F&fontSize=24"
 />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7A51D&center=true&vCenter=true&random=false&width=750&lines=%3C---+Vitor+Dal+Mora+%2F+Front-End+---%3E)](https://git.io/typing-svg)
