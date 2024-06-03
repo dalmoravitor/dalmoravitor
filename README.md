@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 ## Hards Skills
   
 <div align="left">
-  <img align="center" alt="Vitor-Dalmora" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" />
   <img align="center" alt="Vitor-HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Vitor-CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Vitor-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
