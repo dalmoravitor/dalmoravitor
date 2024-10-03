@@ -21,7 +21,7 @@
 
 
 ### Main skills:
-Dart, Javascript.
+Dart, HTML, CSS, Javascript.
 
 ### Studying in this moment:
 Flutter.
