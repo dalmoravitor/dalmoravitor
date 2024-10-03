@@ -21,10 +21,10 @@
 
 
 ### Main skills:
-HTML5, CSS, Javascript
+Dart, Javascript.
 
 ### Studying in this moment:
-React.
+Flutter.
   
 </div>
 
