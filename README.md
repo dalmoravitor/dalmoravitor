@@ -18,17 +18,17 @@
 
 
 ### Main skills:
-HTML, CSS, Javascript.
+Python (data science and back-end) and React Native (mobile app development)
 
 ### Studying in this moment:
-React Native.
+Python
   
 </div>
 
 <br>
 <div align="center"> 
 <a href = "mailto:dalmoravitor@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitor-dal-mora-8aa723231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/vitordalmora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c6975&height=120&section=footer"/>
