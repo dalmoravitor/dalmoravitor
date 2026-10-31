@@ -1,34 +1,70 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c6975&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c6975&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Dal+Mora;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+<img src="header.svg" alt="Vitor Dal Mora" width="100%" />
 
+</div>
 
+---
 
+## Olá, eu sou o Vitor
 
+Sou estudante de **Ciência de Dados e Inteligência Artificial na PUCRS** e pesquisador de **Processamento de Linguagem Natural**. Trabalho com textos técnicos e geológicos, buscando transformar linguagem em conhecimento utilizável.
+
+- Cursando Ciência de Dados e IA na **PUCRS**
+- Pesquisa em **NLP** aplicada a textos geológicos do pré-sal, em projeto da PUCRS com a Petrobras
+- Falo **português, inglês e francês**
+- Pergunte-me sobre: NLP, modelos de linguagem e ciência de dados
+
+---
+
+## Stack e ferramentas
 
 <div align="center">
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dalmoravitor&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" alt="Ashutosh's github activity graph" width="88%" height="330px">
-  </a>
-    
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
+
+---
+
+## Em foco
+
+| | |
+|---|---|
+| **Pesquisa PUCRS e Petrobras** | NLP sobre textos geológicos de formações do pré-sal |
+| **Estudos** | Modelos de linguagem, eficiência e explicabilidade |
+
+---
+
+## Estatísticas do GitHub
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dalmoravitor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-### Main skills:
-Python (data science and back-end) and React Native (mobile app development)
-
-### Studying in this moment:
-Python
-  
 </div>
+
+---
+
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitordalmora)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor@deeptext.co)
 
 <br>
-<div align="center"> 
-<a href = "mailto:dalmoravitor@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitordalmora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c6975&height=120&section=footer"/>
+<i>"Dados são o ponto de partida. O que importa é o que você constrói com eles."</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
