@@ -1,7 +1,8 @@
 <div align="center">
-
-<img src="header.svg" alt="Vitor Dal Mora" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vitor%20Dal%20Mora&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20NLP%20%C2%B7%20AI&descAlignY=58&descSize=18" alt="header" />
+<a href="https://github.com/dalmoravitor">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Founder+%26+CTO+%40+Datifique;Pesquisador+de+NLP+%40+PUCRS;Estudante+de+Ci%C3%AAncia+de+Dados+e+IA;Transformando+texto+em+conhecimento" alt="Typing SVG" />
+</a>
 </div>
 
 ---
@@ -66,5 +67,6 @@ Sou estudante de **Ciência de Dados e Inteligência Artificial na PUCRS** e pes
 <i>"Dados são o ponto de partida. O que importa é o que você constrói com eles."</i>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+</div>
