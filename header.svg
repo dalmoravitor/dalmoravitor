@@ -9,5 +9,5 @@
   <rect width="1000" height="240" rx="14" fill="url(#bg)"/>
   <text x="500" y="108" text-anchor="middle" font-family="Georgia, 'Times New Roman', Times, serif" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="1">Vitor Dal Mora</text>
   <line x1="420" y1="135" x2="580" y2="135" stroke="#4FC3F7" stroke-width="1.5"/>
-  <text x="500" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', Times, serif" font-size="22" font-style="italic" fill="#b9d9e6" letter-spacing="1.5">Ciência de Dados · Processamento de Linguagem Natural · IA</text>
+  <text x="500" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', Times, serif" font-size="22" font-style="italic" fill="#b9d9e6" letter-spacing="1.5">Ciência de Dados \ Processamento de Linguagem Natural \ IA</text>
 </svg>
